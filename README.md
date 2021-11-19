@@ -2,6 +2,10 @@
 
 > Backend API's for Youtube Search and pagination, It search for the Five new uploads from the youtube Data API v3 🔥
 
+## Test API
+</br>
+Inside the source code There is a `request.rest1` file in which I have tested the both API's
+
 ## Technology Stack 
 </br>
 Please get familiar with the components of the project in order to be able to contribute.
