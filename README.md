@@ -1,6 +1,6 @@
 # backend_youtube
 
-> Backend API's for Youtube Search and pagination, It serach for the Five new uploads from the youtube Data API v3 🔥
+> Backend API's for Youtube Search and pagination, It search for the Five new uploads from the youtube Data API v3 🔥
 
 ## Technology Stack 
 </br>
