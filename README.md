@@ -4,7 +4,7 @@
 
 ## Test API
 </br>
-Inside the source code There is a `<request.rest1>` file in which I have tested the both API's
+Inside the source code There is a request.rest1 file in which I have tested the both API's
 
 ## Technology Stack 
 </br>
